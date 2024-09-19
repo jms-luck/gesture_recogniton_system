@@ -1,6 +1,6 @@
 from keras.utils import plot_model
 import utils
-
+#hi
 class BaseModel(object):
     def __init__(self, model, optimizer, callbacks = None):
         self.model = model
